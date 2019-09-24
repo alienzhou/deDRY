@@ -1,0 +1,15 @@
+{
+  "name": "promise-a-plus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc Promise.ts && promises-aplus-tests Promise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "promises-aplus-tests": "^2.1.2",
+    "typescript": "^3.6.3"
+  }
+}
